@@ -21,7 +21,6 @@
 * [x] Sidebar Component.
 * [x] RecommmendedVideos Component.
 * [x] Youtube Search
-
 * [x] Setup Firebase Firestore database.
-* [x] Deploy to Firebase hosting.
-* [x] Testing
+* [x] Deploy to Firebase hosting 🚀
+* [x] Testing 👉 URL:https://clone-211c7.web.app/search/j

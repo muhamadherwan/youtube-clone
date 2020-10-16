@@ -33,6 +33,7 @@ function RecommendedVideos() {
                 timestamp='2 years ago'
                 channelImage='https://yt3.ggpht.com/a/AATXAJyhuo2TAAQhLO1URo8Wlzi1i9oFGx2aUdqxJMA-Mw=s88-c-k-c0x00ffffff-no-rj'
                 channel='My Chemical Romance'
+
                 image='https://i.ytimg.com/an_webp/dhZTNgAs4Fc/mqdefault_6s.webp?du=3000&sqp=CJXwo_wF&rs=AOn4CLCwKM10246MxtxntqvEvLE8UIqd2w'
                 />
 
